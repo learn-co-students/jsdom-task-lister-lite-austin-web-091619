@@ -26,7 +26,18 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
-
+.high{
+  color: red;
+}
+.medium{
+  color: yellow;
+}
+.low{
+  color: green;
+}
+.invisible{
+  display: none;
+}
 #list {
   margin: 10px;
   border: 1px solid #333;
